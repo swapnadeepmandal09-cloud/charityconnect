@@ -1,0 +1,50 @@
+Image credits
+
+The following images are bundled with the demo site. Required source and license
+attributions are recorded here instead of being displayed below images.
+
+- ambulance-response.jpg: "The 108 Ambulance" by UY Scuti, CC BY-SA 3.0.
+  https://commons.wikimedia.org/wiki/File:The_108_Ambulance.jpg
+- water-tower.jpg: "Overhead water tank rural Raichur Karnataka India water tower"
+  by Vraj Acharya / WELL Labs, CC BY-SA 4.0.
+  https://commons.wikimedia.org/wiki/File:Overhead_water_tank_rural_Raichur_Karnataka_India_water_tower.jpg
+- women-health-clinic.jpg: "A female doctor with the International Medical Corps
+  examines a woman patient at a mobile health clinic in Pakistan" by DFID - UK
+  Department for International Development, CC BY 2.0.
+  https://commons.wikimedia.org/wiki/File:Flickr_-_DFID_-_A_female_doctor_with_the_International_Medical_Corps_examines_a_woman_patient_at_a_mobile_health_clinic_in_Pakistan.jpg
+- water-tank.jpg: "Water Tank, Haryau" by Dahiya22, CC BY-SA 4.0.
+  https://commons.wikimedia.org/wiki/File:Water_Tank,_Haryau.jpg
+- tree-planting.jpg: "Tree Planting in Bagmane Tech Park Lake" by Venkytsv, CC BY-SA 3.0.
+  https://commons.wikimedia.org/wiki/File:Tree_Planting_in_Bagmane_Tech_Park_Lake.jpg
+- food-bank.jpg: "CIWT Site Fort Meade Volunteers at Food Bank 161020-N-XX082-002", public domain.
+  https://commons.wikimedia.org/wiki/File:CIWT_Site_Fort_Meade_Volunteers_at_Food_Bank_161020-N-XX082-002.jpg
+- classroom.jpg: Unsplash photo 1588072432836-e10032774350, Unsplash License.
+  https://images.unsplash.com/photo-1588072432836-e10032774350
+- tree-seedling.jpg: Unsplash photo 1542601906990-b4d3fb778b09, Unsplash License.
+  https://images.unsplash.com/photo-1542601906990-b4d3fb778b09
+- art-supplies.jpg: Unsplash photo 1513364776144-60967b0f800f, Unsplash License.
+  https://images.unsplash.com/photo-1513364776144-60967b0f800f
+- medical-recovery.jpg: Unsplash photo 1584515933487-779824d29309, Unsplash License.
+  https://images.unsplash.com/photo-1584515933487-779824d29309
+- hospital-ward.jpg: Unsplash photo 1538108149393-fbbd81895907, Unsplash License.
+  https://images.unsplash.com/photo-1538108149393-fbbd81895907
+- treatment-travel.jpg: "A patient being driven from an ambulance at Mulago" by
+  Bruno Ashimwe Winks, CC BY-SA 4.0.
+  https://commons.wikimedia.org/wiki/File:A_patient_being_driven_from_an_ambulance_at_mulago.jpg
+- mobile-doctor.jpg: Unsplash photo 1622253692010-333f2da6031d, Unsplash License.
+  https://images.unsplash.com/photo-1622253692010-333f2da6031d
+- emergency-xray.jpg: Unsplash photo 1530497610245-94d3c16cda28, Unsplash License.
+  https://images.unsplash.com/photo-1530497610245-94d3c16cda28
+- health-screening.jpg: Unsplash photo 1576765608535-5f04d1e3f289, Unsplash License.
+  https://images.unsplash.com/photo-1576765608535-5f04d1e3f289
+- telemedicine-consult.jpg: "Telemedicine Consult" by Intel Free Press, CC BY-SA 2.0.
+  https://commons.wikimedia.org/wiki/File:Telemedicine_Consult.jpg
+- maternal-health.jpg: Ministry of Information and Broadcasting, Government of India,
+  GODL-India. Photo from a free health clinic in Mizoram.
+  https://commons.wikimedia.org/wiki/File:The_Doctor_attended_patients_at_a_free_Medical_Health_Clinic,_in_connection_with_the_Public_Information_Campaign_on_Bharat_Nirman,_at_Zobawk,_Mizoram_on_June_25,_2010.jpg
+- doctor-consultation.jpg: "Doctor discussing diagnosis with patient", CDC, public domain.
+  https://commons.wikimedia.org/wiki/File:Doctor_discussing_diagnosis_with_patient.tiff
+- dialysis-support.jpg: "Patient receiving dialysis 03" by Anna Frodesiak, CC0.
+  https://commons.wikimedia.org/wiki/File:Patient_receiving_dialysis_03.jpg
+- cancer-treatment.jpg: "Patient receives chemotherapy" by Rhoda Baer, public domain.
+  https://commons.wikimedia.org/wiki/File:Patient_receives_chemotherapy.jpg
